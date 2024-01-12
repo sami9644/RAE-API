@@ -18,7 +18,7 @@ Importing rae class
 const { RAE } = require('rae-api');
 
 const rae = new RAE();
-```
+```w
 
 Enabling debug mode
 
